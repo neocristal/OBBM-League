@@ -1,0 +1,22 @@
+docs:
+
+- pagetitle: About
+  url: /botbowl/
+
+- pagetitle: Bot Bowl I
+  url: /botbowl/bot-bowl-i
+
+- pagetitle: Bot Bowl II
+  url: /botbowl/bot-bowl-ii
+
+- pagetitle: Bot Bowl III
+  url: /botbowl/bot-bowl-iii
+
+- pagetitle: Bot Bowl IV
+  url: /botbowl/bot-bowl-iv
+
+- pagetitle: Bot Bowl V
+  url: /botbowl/bot-bowl-v
+
+- pagetitle: Tutorials
+  url: /botbowl/tutorials

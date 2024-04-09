@@ -9,7 +9,7 @@ defusedxml==0.7.1
 docker==6.1.1
 exceptiongroup==1.1.1
 Flask==2.3.2
-fonttools==4.39.3
+fonttools==4.43.0
 gym==0.26.2
 gym-notices==0.0.8
 idna==3.4
